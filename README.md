@@ -4,4 +4,4 @@ Feeder is a mobile app that connects restaurants with leftover food to NGOs and 
 
 UI Design : https://www.figma.com/design/3VpI7GzOawJPHLeUx2GBKf/Final-Project?node-id=676-3503&t=sHF3t9L3KAbHJRtm-1
 
-case study : 
+case study : https://drive.google.com/file/d/1UvDck2Pv_dUsCAZfsj87fxnc8XUwPDeI/view?usp=drive_link
