@@ -1,4 +1,4 @@
-# Foobar
+# Feeder
 
 Feeder is a mobile app that connects restaurants with leftover food to NGOs and people in need. Instead of wasting good food, the app makes it quick and easy to donate and track where it goes. The goal is to reduce food waste and help communities get the meals they deserve, in a simple and human way.
 
