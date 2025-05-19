@@ -9,9 +9,9 @@ case study : https://drive.google.com/file/d/1UvDck2Pv_dUsCAZfsj87fxnc8XUwPDeI/v
 
 # Team Members
 
-Amr Mohamed 
-Rawan Ahmed 
-Ahd Ahmed 
-Mohamed Fathy
-Mahmoud Talaat
-Esraa Ahmed
+Amr Mohamed   
+Rawan Ahmed   
+Ahd Ahmed   
+Mohamed Fathy  
+Mahmoud Talaat  
+Esraa Ahmed  
